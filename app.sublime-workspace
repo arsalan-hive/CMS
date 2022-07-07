@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"bsearch"
+			],
+			[
+				"p",
+				"printl"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"had",
+				"headr"
+			],
+			[
+				"std",
+				"stdlib.h\tstandard header"
+			],
+			[
+				"T",
+				"T0"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"max",
+				"max_element"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"man",
+				"main\tmethod (main)"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"r",
+				"ratings"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"Ra",
+				"Ratna"
+			],
+			[
+				"crick",
+				"cricketer"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"s",
+				"sarray"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"map",
+				"map\tstandard header"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"na",
+				"nstairs"
+			],
+			[
+				"k",
+				"klengthsubs"
+			],
+			[
+				"de",
+				"deck"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"sr",
+				"start"
+			],
+			[
+				"max_",
+				"max_e"
+			],
+			[
+				"I",
+				"INT_MAX"
+			],
+			[
+				"e",
+				"erase"
+			],
+			[
+				"begin",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"fo",
+				"found"
+			],
+			[
+				"t",
+				"true"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"Snippet: ",
+				"Snippet: abstract"
+			],
+			[
+				"live server",
+				"Permute Lines: Reverse"
+			],
+			[
+				"Package Control: se",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"theme",
+				"Material Theme: Configuration"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mate",
+				"Material Theme: Configuration"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 288.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/arsalan/q,c",
+		"/home/arsalan/promeno.cpp",
+		"/home/arsalan/986.cpp",
+		"/home/arsalan/dom0.html",
+		"/home/arsalan/Fitnofit.html",
+		"/home/arsalan/my web page.html",
+		"/home/arsalan/obj.js",
+		"/home/arsalan/obj.ls",
+		"/home/arsalan/obj,js",
+		"/home/arsalan/wprdbreak.cpp",
+		"/home/arsalan/877.cpp",
+		"/home/arsalan/subkth.cpp",
+		"/home/arsalan/themeinfo.cpp",
+		"/home/arsalan/subsetsum.cpp",
+		"/home/arsalan/kpalcce1.cpp",
+		"/home/arsalan/a.cpp",
+		"/home/arsalan/palin.cpp",
+		"/home/arsalan/largesubarray.cpp",
+		"/home/arsalan/texteditor.cpp",
+		"/home/arsalan/subsumlessk",
+		"/home/arsalan/segments.cpp",
+		"/home/arsalan/sentences.cpp",
+		"/home/arsalan/lpal.cpp",
+		"/home/arsalan/chpintu.cpp",
+		"/home/arsalan/klengthsubs/cpp",
+		"/home/arsalan/revealcard.cpp",
+		"/home/arsalan/chec",
+		"/home/arsalan/3nov.cpp",
+		"/home/arsalan/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/arsalan/sortwoe.c[[",
+		"/home/arsalan/jumpgame.cpp"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/swapsort.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
